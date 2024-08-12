@@ -158,5 +158,3 @@ export default function Home() {
     </Box>
   ) 
 }
-
-'37:51, bill zhang video'
